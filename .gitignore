@@ -147,3 +147,13 @@ vite.config.ts.timestamp-*
 figma_tmp/
 figma_imgs/
 figma_*.json
+
+# Build directories
+target/
+Backend/target/
+*.class
+
+# Scratch files
+*.txt
+blog_check.json
+
