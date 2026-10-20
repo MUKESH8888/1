@@ -147,13 +147,3 @@ vite.config.ts.timestamp-*
 figma_tmp/
 figma_imgs/
 figma_*.json
-
-# Java / Maven build output
-target/
-Backend/target/
-*.class
-
-# Local analysis artifacts
-*_result.txt
-blog_check.json
-
